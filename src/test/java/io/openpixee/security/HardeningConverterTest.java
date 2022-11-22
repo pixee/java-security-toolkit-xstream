@@ -16,7 +16,6 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.function.Predicate;
 import java.util.stream.Stream;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -34,10 +33,7 @@ final class HardeningConverterTest {
   }
 
   private static Stream<Arguments> defaultConverters() {
-    return Stream.of(
-            arguments(new HardeningConverter()),
-            arguments(HardeningConverter.DEFAULT)
-    );
+    return Stream.of(arguments(new HardeningConverter()), arguments(HardeningConverter.DEFAULT));
   }
 
   @ParameterizedTest
