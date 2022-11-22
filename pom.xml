@@ -5,7 +5,7 @@
 
     <groupId>io.openpixee</groupId>
     <artifactId>java-security-toolkit-xstream</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>java-security-toolkit-xstream</name>
     <description>a library with common security controls for XStream</description>
