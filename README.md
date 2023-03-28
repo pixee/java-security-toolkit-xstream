@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/openpixee/java-security-toolkit-xstream/workflows/Java%20CI/badge.svg)](https://github.com/openpixee/java-security-toolkit-xstream/actions)
+[![Actions Status](https://github.com/pixee/java-security-toolkit-xstream/workflows/Java%20CI/badge.svg)](https://github.com/pixee/java-security-toolkit-xstream/actions)
 ![Coverage](.github/badges/jacoco.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

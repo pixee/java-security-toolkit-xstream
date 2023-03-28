@@ -3,18 +3,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.openpixee</groupId>
+    <groupId>io.github.pixee</groupId>
     <artifactId>java-security-toolkit-xstream</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <name>java-security-toolkit-xstream</name>
     <description>a library with common security controls for XStream</description>
-    <url>https://github.com/openpixee/java-security-toolkit-xstream</url>
+    <url>https://github.com/pixee/java-security-toolkit-xstream</url>
 
     <scm>
-        <connection>scm:git:git://github.com/openpixee/java-security-toolkit-xstream.git</connection>
-        <developerConnection>scm:git:ssh://github.com:openpixee/java-security-toolkit-xstream.git</developerConnection>
-        <url>https://github.com/openpixee/java-security-toolkit-xstream/tree/main</url>
+        <connection>scm:git:git://github.com/pixee/java-security-toolkit-xstream.git</connection>
+        <developerConnection>scm:git:ssh://github.com:pixee/java-security-toolkit-xstream.git</developerConnection>
+        <url>https://github.com/pixee/java-security-toolkit-xstream/tree/main</url>
     </scm>
 
     <licenses>
@@ -38,8 +38,8 @@
     <developers>
         <developer>
             <name>Arshan Dabirsiaghi</name>
-            <organization>openpixee</organization>
-            <organizationUrl>https://openpixee.io/</organizationUrl>
+            <organization>pixee</organization>
+            <organizationUrl>https://pixee.ai/</organizationUrl>
         </developer>
     </developers>
 
