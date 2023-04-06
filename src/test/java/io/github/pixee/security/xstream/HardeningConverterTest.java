@@ -1,4 +1,4 @@
-package io.github.pixee.security;
+package io.github.pixee.security.xstream;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;

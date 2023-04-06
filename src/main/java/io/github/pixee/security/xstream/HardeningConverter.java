@@ -1,4 +1,4 @@
-package io.github.pixee.security;
+package io.github.pixee.security.xstream;
 
 import com.thoughtworks.xstream.converters.Converter;
 import com.thoughtworks.xstream.converters.UnmarshallingContext;
